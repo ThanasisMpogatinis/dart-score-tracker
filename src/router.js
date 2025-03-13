@@ -4,7 +4,7 @@ import GameMode_X01 from '@/views/GameMode_X01.vue';
 import GameMode_Cricket from '@/views/GameMode_Cricket.vue';
 
 const routes = [
-  { path: '/', component: HomePage },
+  { path: '/dart-score-tracker', component: HomePage },
   { path: '/score-tracker-X01', component: GameMode_X01 },
   { path: '/score-tracker-cricket', component: GameMode_Cricket }
 ];
