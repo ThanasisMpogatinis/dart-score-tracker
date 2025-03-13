@@ -27,3 +27,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### TODOS
+-> Fix for mobile screens
+-> Cricket
